@@ -19,12 +19,13 @@ IDE: Visual Studio Code or other code editors.
 Linux Distribution: Ubuntu or any other Linux distribution. This project will leverage Ubuntu
 
 # Installation Instructions:
-Step1: Install Linux Distribution (if not already installed):
+**Step1:** Install Linux Distribution (if not already installed):
 Visit https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion official website do install VMWare virtualization tool.
 This project assumes you are using Ubuntu or a similar Linux environment. After VMWare Installation, Install Ubuntu from this official website https://ubuntu.com/download/desktop
-Step2: Install Visual Studio Code:
+
+**Step2**: Install Visual Studio Code:
    - Install Visual Studio Code from https://visualstudio.microsoft.com/downloads/ Microsoft website or use a different IDE of your choice.
-Step3: Install .NET SDK for C#:
+**Step3**: Install .NET SDK for C#:
    - Follow the installation instructions on the https://dotnet.microsoft.com/en-us/download website to install the SDK on your Linux machine. Choose a Linux Distribution of your choce.
 
 # Project Breakdown
