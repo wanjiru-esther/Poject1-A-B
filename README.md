@@ -4,6 +4,7 @@
 This project explores fundamental operating system concepts, including multi-threading, synchronization, and inter-process communication (IPC). The project is divided into two major parts: ProjectA & ProjectB
 
 **Important**
+
 #ProjectA in the repository is named as: OSProject/OSProject
 It has files: Phase1.cs | Phase2.cs | Phase3.cs | Phase4.cs | Program.cs
 
@@ -66,6 +67,7 @@ Build the program by running the following command: dotnet build
 Run the Program: After building the program, run it using: dotnet run
 
 **Note:** 
+
 For ProjectA, the main Program.cs file can execute all four phases in sequence. This approach will keep the phases modular but run them all in a single execution flow.
 
 For ProjectB, the entire project is contained in a single file, allowing you to simply hit "run" and have the program execute as a whole
