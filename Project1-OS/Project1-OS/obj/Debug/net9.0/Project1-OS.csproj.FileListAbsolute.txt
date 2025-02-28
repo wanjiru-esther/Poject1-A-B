@@ -1,0 +1,15 @@
+/home/esther/Desktop/Project1-OS/Project1-OS/bin/Debug/net9.0/Project1-OS
+/home/esther/Desktop/Project1-OS/Project1-OS/bin/Debug/net9.0/Project1-OS.deps.json
+/home/esther/Desktop/Project1-OS/Project1-OS/bin/Debug/net9.0/Project1-OS.runtimeconfig.json
+/home/esther/Desktop/Project1-OS/Project1-OS/bin/Debug/net9.0/Project1-OS.dll
+/home/esther/Desktop/Project1-OS/Project1-OS/bin/Debug/net9.0/Project1-OS.pdb
+/home/esther/Desktop/Project1-OS/Project1-OS/obj/Debug/net9.0/Project1-OS.GeneratedMSBuildEditorConfig.editorconfig
+/home/esther/Desktop/Project1-OS/Project1-OS/obj/Debug/net9.0/Project1-OS.AssemblyInfoInputs.cache
+/home/esther/Desktop/Project1-OS/Project1-OS/obj/Debug/net9.0/Project1-OS.AssemblyInfo.cs
+/home/esther/Desktop/Project1-OS/Project1-OS/obj/Debug/net9.0/Project1-OS.csproj.CoreCompileInputs.cache
+/home/esther/Desktop/Project1-OS/Project1-OS/obj/Debug/net9.0/Project1-OS.sourcelink.json
+/home/esther/Desktop/Project1-OS/Project1-OS/obj/Debug/net9.0/Project1-OS.dll
+/home/esther/Desktop/Project1-OS/Project1-OS/obj/Debug/net9.0/refint/Project1-OS.dll
+/home/esther/Desktop/Project1-OS/Project1-OS/obj/Debug/net9.0/Project1-OS.pdb
+/home/esther/Desktop/Project1-OS/Project1-OS/obj/Debug/net9.0/Project1-OS.genruntimeconfig.cache
+/home/esther/Desktop/Project1-OS/Project1-OS/obj/Debug/net9.0/ref/Project1-OS.dll
