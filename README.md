@@ -26,11 +26,13 @@ This project assumes you are using Ubuntu or a similar Linux environment. After 
 
 **Step2**: Install Visual Studio Code:
    - Install Visual Studio Code from https://visualstudio.microsoft.com/downloads/ Microsoft website or use a different IDE of your choice.
+     
 **Step3**: Install .NET SDK for C#:
    - Follow the installation instructions on the https://dotnet.microsoft.com/en-us/download website to install the SDK on your Linux machine. Choose a Linux Distribution of your choce.
 
 # Project Breakdown
-Project A:
+
+**Project A:**
 Phase 1: Basic Thread Operations
 Objective: Create threads that perform concurrent operations for cookie jar access. 
 Cookie Example: Implement threads for individual cookie operations in a cookie jar (e.g., adding or removing cookies concurrently)
@@ -46,7 +48,7 @@ Cookie Example: Resolve deadlock by introducing a timeout mechanism in cookie tr
 
 NOTE: Running program: Use the main Program.cs file to run the all 4 Phases files in one main file. Each phase has its own file
 
-**Project B: **
+**Project B:**
 Inter-Process Communication (IPC) with Pipes
 Objective: Use pipes for data transfer between processes in a custom IPC example (such as communication between two processes manipulating the cookie jar).
 Instructions for Setup and Running the Program:
