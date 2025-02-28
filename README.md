@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project explores fundamental operating system concepts, including multi-threading, synchronization, and inter-process communication (IPC). The project is divided into two major parts:
+
 **Project A:** Multi-Threading Implementation (Four Phases)
 This part demonstrates threading concepts and synchronization. Each phase builds upon the previous one to create a complete threading implementation:
 1. Phase 1: Basic Thread Operations
