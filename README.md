@@ -44,11 +44,14 @@ This project assumes you are using Ubuntu or a similar Linux environment. After 
 
 **Step-by-step Instructions for Building and Running the program.**
 #To run  both projects on the VMware, Ubuntu terminal:
+
 **Clone the Repository:**
 Clone like this: git clone https://github.com/your-username/your-repository.git
 Replace your-username and your-repository with the actual GitHub details.
+
 **Navigate to the Project Directory:**
 After cloning, navigate to the project directory where each project file is located.
+
 **Build the Program Using the .NET SDK:**
 Ensure you have the .NET SDK installed. You can verify this by running dotnet --version.
 Build the program by running the following command: dotnet build
