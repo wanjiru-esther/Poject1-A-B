@@ -71,13 +71,11 @@ class Program
         Console.WriteLine("All Four phases have finished!");
     }
 }
-/**Project All 4 Phases output:
-*
-*
-*----Running Phase 1: Basic Thread Operations-----
-[Phase 1] A cookie was taken! Cookies left: 4
-[Phase 1] A cookie was added! Cookies in jar: 5
-[Phase 1] A cookie was taken! Cookies left: 4
+
+/****-----Running Phase 1: Basic Thread Operations-----
+[Phase 1] A cookie was taken! Cookies left: 10
+[Phase 1] A cookie was taken! Cookies left: 9
+[Phase 1] A cookie was added! Cookies in jar: 10
 Phase 1 completed.
 
 
@@ -99,16 +97,13 @@ Phase 3 completed.
 -----Running Phase 4: Deadlock Resolution-----
 [Phase 4] [Thread A] Locked Resource 1!
 [Phase 4] [Thread A] Took a cookie from both jars!
-[Phase 4] [Thread B] Locked Resource 1!
-[Phase 4] [Thread B] Took a cookie from both jars!
 [Phase 4] [Thread A] Locked Resource 1!
 [Phase 4] [Thread A] Took a cookie from both jars!
+[Phase 4] [Thread B] Locked Resource 1!
+[Phase 4] [Thread B] Took a cookie from both jars!
 [Phase 4] [Thread B] Locked Resource 1!
 [Phase 4] [Thread B] Took a cookie from both jars!
 
 Phase 4 completed!
 
-All Four phases have finished!
-*
-*
-****/
+All Four phases have finished!****/

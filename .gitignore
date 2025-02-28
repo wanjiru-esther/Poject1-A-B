@@ -1,4 +1,23 @@
+# Ignore build directories
 bin/
 obj/
+
+# Ignore Visual Studio/JetBrains files
 *.sln
-*.vcxproj
+*.csproj
+*.user
+*.suo
+*.vs/
+.vscode/
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.pdb
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore user-specific settings
+*.userprefs
